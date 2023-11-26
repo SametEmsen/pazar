@@ -8,7 +8,7 @@ public class Main {
         System.out.println("hergün bayram");
         System.out.println("yarından sonraki gün çarşambadır - ahmet");
         System.out.println("yarın salı");
-        System.out.println("D#ncerden çarşamba");
+        System.out.println("D#ncerden çarşamba ");
     }
 
 }
