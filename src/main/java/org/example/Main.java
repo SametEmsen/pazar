@@ -10,6 +10,7 @@ public class Main {
         System.out.println("yarın salı");
         System.out.println("D#ncerden çarşamba ");
         System.out.println("Dinçer perşembe de ekledi");
+        System.out.println("Atakan geldi");
     }
 
 }
