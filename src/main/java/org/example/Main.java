@@ -9,6 +9,7 @@ public class Main {
         System.out.println("yarından sonraki gün çarşambadır - ahmet");
         System.out.println("yarın salı");
         System.out.println("D#ncerden çarşamba ");
+        System.out.println("Dinçer perşembe de ekledi");
     }
 
 }
