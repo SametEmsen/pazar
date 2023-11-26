@@ -5,6 +5,9 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("bugün pazartesi");
         System.out.println("yarın salı ");
+        System.out.println("hergün bayram");
+        System.out.println("yarından sonraki gün çarşambadır - ahmet");
+        System.out.println("yarın salı");
     }
 
 }
